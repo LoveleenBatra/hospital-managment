@@ -64,18 +64,18 @@ It includes complete modules for **patients, doctors, appointments, and authenti
 
 ## 📂 Folder Structure
 
-hospital-management/
-      assets/
-          css/
-          js/
-          images/
-      Backend/
-          appointment/
-          auth/
-          doctor/
-          patient/
+hospital-management
+      assets
+          css
+          js
+          images
+      Backend
+          appointment
+          auth
+          doctor
+          patient
           db.php (Database connection file)
-       Frontend/
+       Frontend
           index.html
           login.html
           register.html
