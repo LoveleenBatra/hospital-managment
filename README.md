@@ -63,28 +63,28 @@ It includes complete modules for **patients, doctors, appointments, and authenti
 ---
 
 ## 📂 Folder Structure
-
-hospital-management
-      assets
-          css
-          js
-          images
-      Backend
-          appointment
-          auth
-          doctor
-          patient
-          db.php (Database connection file)
-       Frontend
-          index.html
-          login.html
-          register.html
-          doctors.html
-          patients.html
-          appointments.html
-          login_success.html
-          register_success.html
-
+---
+  - hospital-management/
+      - assets/
+          - css/
+          - js/
+          - images/
+      - Backend/
+          - appointment/
+          - auth/
+          - doctor/
+          - patient/
+          - db.php (Database connection file)
+       - Frontend/
+          - index.html
+          - login.html
+          - register.html
+          - doctors.html
+          - patients.html
+          - appointments.html
+          - login_success.html
+          - register_success.html
+---
 ## ⚙️ Installation & Setup (Local)
 
 1. Install **XAMPP**
